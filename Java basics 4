@@ -1,0 +1,20 @@
+/* package codechef; // don't place package name! */
+
+import java.util.*;
+import java.io.*;
+
+/* Name of the class has to be "Main" only if the class is public. */
+class Codechef
+{
+    static int num=8;
+	public static void main (String args[])throws IOException
+	{
+	   BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
+	   //This is a program that dispalys my name.
+	   /*This program 
+	   can be used to dispaly 
+	   my name.*/
+	  int a=9;
+	   System.out.println(a+"\n"+num);// your code goes here
+	}
+};
